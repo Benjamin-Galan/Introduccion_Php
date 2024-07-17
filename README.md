@@ -1,3 +1,3 @@
-Mis notaciones de php aprendiendo desarrollo web.
+Mis anotaciones de php aprendiendo desarrollo web.
 
 Creditos al curso del profesor Juan Pablo de la Torre Valdéz.
